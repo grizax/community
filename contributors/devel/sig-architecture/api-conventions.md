@@ -148,7 +148,7 @@ the full list. Some objects may be singletons (the current user, the system
 defaults) and may not have lists.
 
    In addition, all lists that return objects with labels should support label
-filtering (see [the labels documentation](https://kubernetes.io/docs/user-guide/labels/)), and most
+filtering (see [the labels documentation](https://kubernetes.io/docs/concepts/overview/working-with-objects/labels/)), and most
 lists should support filtering by fields (see
 [the fields documentation](https://kubernetes.io/docs/concepts/overview/working-with-objects/field-selectors/)).
 
